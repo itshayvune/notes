@@ -1,2 +1,3 @@
-# notes
-quick note: used for a test.
+# Notes by Anh Duc and Hayvune
+
+link: https://notes.itshayvune.repl.co
