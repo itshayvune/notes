@@ -1,3 +1,4 @@
 # Notes by Anh Duc and Hayvune
 
-link: https://notes.itshayvune.repl.co
+link [EN]: https://notes.itshayvune.repl.co
+link [VI]: https://giay-nho.itshayvune.repl.co
